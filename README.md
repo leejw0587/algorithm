@@ -1,2 +1,2 @@
-# baekjoon
-repo for studying algorithm
+# algorithm
+repo for studying algorithm using online judge
